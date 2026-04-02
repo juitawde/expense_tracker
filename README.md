@@ -3,6 +3,8 @@
 A simple and modern **Daily Expense Tracker Web App** that helps you record, manage, and monitor your daily spending.
 The application stores data in your browser using **localStorage**, so your expenses remain saved even after refreshing the page.
 
+Live Link: https://juitawde.github.io/expense_tracker/
+
 ---
 
 ## ✨ Features
